@@ -1,0 +1,119 @@
+.contenedor {
+    border: 2px solid black;
+    background-color: red;
+    font-family: 'Oswald', sans-serif;
+}
+
+.columna1 {
+    float: left;
+    width: 45%;
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.columna2 {
+    float: right;
+    width: 45%;
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.columna3 {
+    float: left;
+    width: 45%;
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.columna4 {
+    float: right;
+    width: 45%;
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.subcontenedor {
+    background-color: white;
+    border: 2px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    list-style-position: inside;
+    padding: 0%;
+}
+
+video {
+   border: 2px solid black; 
+}
+
+table {
+    border: 4px solid black;
+    font-size: 200%;
+    text-align: center;
+    margin-left: 36%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 30%;
+}
+
+tr {
+    border: 2px solid black;
+}
+
+th {
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+}
+
+header {
+    border: 2px solid black;
+    background-color: red;
+    font-family: 'Oswald', sans-serif;
+    width: 100%;
+}
+
+nav ul {
+    text-align: center;
+    font-size: 150%;
+    margin-top: 3%;
+}
+
+nav ul li {
+    text-decoration: none;
+    display: inline;
+    margin-right: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 0.5%;
+}
+
+.imagen {
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+footer {
+    text-align: center;
+    clear: both;
+    border: 3px solid black;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 35%;
+}
